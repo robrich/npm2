@@ -1,0 +1,14 @@
+{
+  "name": "npm2",
+  "version": "1.0.0",
+  "description": "Wraps npm v2 so you can run it alongside npm v3",
+  "main": "index.js",
+  "bin": {
+    "npm2": "bin/index.js"
+  },
+  "author": "Rob Richardson (https://robrich.org/)",
+  "license": "MIT",
+  "dependencies": {
+    "npm": "^2.0.0"
+  }
+}
