@@ -9,6 +9,6 @@
   "author": "Rob Richardson (https://robrich.org/)",
   "license": "MIT",
   "dependencies": {
-    "npm": "^2.0.0"
+    "npm": "^6.14.6"
   }
 }
